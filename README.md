@@ -1,4 +1,4 @@
-`#0d1117`
+
 # 👋 Hello! Welcome to my Github profile.
 ## My name is **W**illiam **F**errari and I'm studying to become a *Software Engineer*
 
@@ -9,6 +9,6 @@
 
 - 📫 How to reach me: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20"/> https://www.linkedin.com/in/willian-ferrari-5aa505232/
 
-![Snake animation](https://github.com/wpferrari/wpferrari/blob/output/github-contribution-grid-snake.svg)
 
-![Image](https://techcrunch.com/wp-content/uploads/2014/12/matrix.jpg?w=1390&crop=1)
+
+<img src="https://techcrunch.com/wp-content/uploads/2014/12/matrix.jpg?w=1390&crop=1" width="500" height="500"/>
